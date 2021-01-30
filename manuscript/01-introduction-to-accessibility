@@ -1,0 +1,23 @@
+# Accessibility
+
+
+## Ability Assumptions
+
+Accessibility is fundamentally about assumptions built into our environments, including the digital ones.
+
+Being able to use computers is a vital part of life, which is undeniable these days, and not everyone can use computers in the ways that they are commonly built assuming people will use them. Correcting for this is the underlying principle of accessibility.
+
+The ability to make a computer system accessible is fundamentally tied to how it was built.
+
+Researchers and developers of interactive systems have always made ability assumptions as a kind of tradeoff in being able to create a system that works at all.
+
+The Graphical User Interface (GUI) embodies a popular and common set of assumptions. Most notably, "Graphical" implies the ability to see the interface's content. Often, motor abilities are often assumed.
+
+
+## Making Documents and Applications Accessible
+
+The focus of this book is not on how to make documents and applications accessible, but rather on how access technology itself is created. Fortunately, there are numerous books and websites that describe at length how to make documents and applications accessible. Nevertheless, it is useful to understand how to make documents and applications accessible 
+
+- document accessibility
+
+## Practice Making a Web Page Accessible
